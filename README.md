@@ -6,3 +6,5 @@
 
 
                                                             🛠️Skills🛠️
+                                                            Languages:
+                                                            Python MySQL
