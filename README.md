@@ -1,36 +1,54 @@
-<h1 align="center">Hi 👋, I'm Asif Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"width="400"src="https://user-
-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aas786&label=Profile%20views&color=0e75b6&style=flat" alt="aas786" /> </p>
+<div align="center">
+    <a href="https://github.com/denvercoder1/readme-typing-svg">
+        <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=cb3365&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hey,+There!+👋>;<This+is+Asif!>;<Glad+to+meet+you!>">
+    </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aas786" alt="aas786" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DA & DS with AI**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asif-Shaikh&show_icons=true&theme=radical" width="42%" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Shaikh&show_icons=true&theme=radical" width="32%" alt="Top Langs">
+</div>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+---
 
-- 💬 Ask me about **shaikhasif694@gmail.com**
+## <span style="font-family: Arial;">🛠️Skills🛠️</span>
 
-- 📫 How to reach me **shaikhasif694@gmail.com**
+### <span style="font-family: Arial;">Languages:</span>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- ⚡ Fun fact **I am funny**
+### <span style="font-family: Arial;">Libraries & Frameworks:</span>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asif shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif shaikh" height="30" width="40" /></a>
-<a href="https://fb.com/asif shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif shaikh" height="30" width="40" /></a>
-<a href="https://instagram.com/asif1_13_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif1_13_01" height="30" width="40" /></a>
-</p>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### <span style="font-family: Arial;">Tools:</span>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23025E8C.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aas786&show_icons=true&locale=en&layout=compact" alt="aas786" /></p>
+### <span style="font-family: Arial;">Other:</span>
+[![Anaconda](https://img.shields.io/badge/Anaconda-4C0082?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aas786&show_icons=true&locale=en" alt="aas786" /></p>
+                                                 
+##
+<h3 align="center">Contact Me:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aas786&" alt="aas786" /></p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://ali.farahmand101@gmail.com)                                       
+
+                                         
+---
+
+
+
+
