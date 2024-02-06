@@ -1,3 +1,14 @@
+- 👋 Hi, I’m @Asif Shaikh
+- 👀 I’m interested in learning new technologies...
+- 🌱 I’m currently learning Data science...
+- 💞️ I’m looking new opportunities to enhance my skills ...
+- 📫 How to reach me ... Shaikhasif694@gmail.com
+
+
+<!---
+AAS786/AAS786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <div align="center">
     <a href="https://github.com/denvercoder1/readme-typing-svg">
